@@ -1,4 +1,8 @@
-## Hi there 👋
+
+![cat-dance-dancing-cat (1)](https://github.com/user-attachments/assets/72a8396e-ebac-48ce-a7a7-8ee00f3d485b)
+![dancing-cat-dance](https://github.com/user-attachments/assets/9b310b7c-ade7-48b8-84c6-efa51947ef20)
+![cool-fun](https://github.com/user-attachments/assets/a593ab1c-5cf3-449e-8920-c13c4843e3c2)
+
 
 <!--
 **Mogitures/mogitures** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
